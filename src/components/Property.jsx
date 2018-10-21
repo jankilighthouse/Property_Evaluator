@@ -18,14 +18,16 @@ class Property extends Component {
       })
       return (
         <div className="card neighbor-info">
+          <div class="card">
           <div className="card-body">
-            <h5 className="card-title">{this.props.location.address}</h5>
+            <h5 className="card-header">{this.props.location.address}</h5>
             <ul>
               {priceInfo}
               {crimeInfo}
               <li>{this.props.location.lat}</li>
               <li>{this.props.location.lng}</li>
             </ul>
+          </div>
           </div>
         </div>
       );
