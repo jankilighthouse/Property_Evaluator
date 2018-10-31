@@ -26,7 +26,7 @@ Created by Janki Patel,Max,Cheng,Fei.
 !["Screenshot of Property Evaluator"](https://github.com/jankilighthouse/Property_Evaluator/blob/master/docs/property_list%20page.png?raw=true)
 ### Chart Comparision page
 !["Screenshot of Property Evaluator"](https://github.com/jankilighthouse/Property_Evaluator/blob/master/docs/chart_comparision.png?raw=true)
-### Stistics Page
+### Statistics Page
 !["Screenshot of Property Evaluator"](https://github.com/jankilighthouse/Property_Evaluator/blob/master/docs/stistics_page.png?raw=true)
 ### Api Page
 !["Screenshot of Property Evaluator"](https://github.com/jankilighthouse/Property_Evaluator/blob/master/docs/api.png?raw=true)
