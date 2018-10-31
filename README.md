@@ -20,15 +20,15 @@ Created by Janki Patel,Max,Cheng,Fei.
 
 ## Final Product
 
-# Landing Page
+### Landing Page
 !["Screenshot of Property Evaluator"](https://github.com/jankilighthouse/Property_Evaluator/blob/master/docs/landing_page.png?raw=true)
-# Property List page
+### Property List page
 !["Screenshot of Property Evaluator"](https://github.com/jankilighthouse/Property_Evaluator/blob/master/docs/property_list%20page.png?raw=true)
-# Chart Comparision page
+### Chart Comparision page
 !["Screenshot of Property Evaluator"](https://github.com/jankilighthouse/Property_Evaluator/blob/master/docs/chart_comparision.png?raw=true)
-# Stistics Page
+### Stistics Page
 !["Screenshot of Property Evaluator"](https://github.com/jankilighthouse/Property_Evaluator/blob/master/docs/stistics_page.png?raw=true)
-# Api Page
+### Api Page
 !["Screenshot of Property Evaluator"](https://github.com/jankilighthouse/Property_Evaluator/blob/master/docs/api.png?raw=true)
 
 ## Getting Started
