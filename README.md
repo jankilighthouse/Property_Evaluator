@@ -12,23 +12,23 @@
 - add distance calculation ...
 - mobile response
 
-##Property Evaluator(Final Project)
+## Property Evaluator(Final Project)
 
 Property Evaluator is an app for data visualization/comparison/mapping application that utilize city of calgary open data to help potential home buyer collect real-time governmental data about a specific property, including its value, flood rate and its surrounding community's population and crime statistics,Walkability Score.For website and developer, REAL Map provide public API endpoint and comprehensive query language to share our data.
 
 Created by Janki Patel,Max,Cheng,Fei.
 
-##Final Product
+## Final Product
 
-#Landing Page
+# Landing Page
 !["Screenshot of Property Evaluator"](https://github.com/jankilighthouse/Property_Evaluator/blob/master/docs/landing_page.png?raw=true)
-#Property List page
+# Property List page
 !["Screenshot of Property Evaluator"](https://github.com/jankilighthouse/Property_Evaluator/blob/master/docs/property_list%20page.png?raw=true)
-#Chart Comparision page
+# Chart Comparision page
 !["Screenshot of Property Evaluator"](https://github.com/jankilighthouse/Property_Evaluator/blob/master/docs/chart_comparision.png?raw=true)
-#Stistics Page
+# Stistics Page
 !["Screenshot of Property Evaluator"](https://github.com/jankilighthouse/Property_Evaluator/blob/master/docs/stistics_page.png?raw=true)
-#Api Page
+# Api Page
 !["Screenshot of Property Evaluator"](https://github.com/jankilighthouse/Property_Evaluator/blob/master/docs/api.png?raw=true)
 
 ## Getting Started
