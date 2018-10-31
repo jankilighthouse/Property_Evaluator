@@ -21,3 +21,5 @@
 
 ## Styling focus
 - fix search animations to be smoother
+
+## Getting Started
