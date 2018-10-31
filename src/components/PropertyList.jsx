@@ -67,7 +67,6 @@ class PropertyList extends Component {
         '<div style="line-height:1.00;overflow:hidden;white-space:nowrap;" class="infoWindow">' +
         'Community: ' + location.comm_name + '<br><br>' + 'Address' + ': ' +
         location.address + '</div>');
-
       // add click listener
       console.log(window.$(`[data-scroll='${location.address}']`))
       this.googleMaps.event.addListener(marker, 'click', () => {
