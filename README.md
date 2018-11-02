@@ -1,4 +1,4 @@
-## Property Evaluator(Final Project)
+## Property Evaluator
 
 Property Evaluator is an app for data visualization/comparison/mapping application that utilize city of calgary open data to help potential home buyer collect real-time government data about a specific property, including its value, flood rate and its surrounding community's population,crime statistics and Walkability Score.For website and developer, Property Evaluator provide public API endpoint and comprehensive query language to share our data.
 
